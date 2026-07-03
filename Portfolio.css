@@ -331,8 +331,8 @@ margin-bottom: 20px;
 /*projects*/
 .projects{
     background: #ffffff;
-     padding: 60px 8%;
-     margin: 30px;
+     padding-top: 60px;
+     margin-top: 60px;
 }
 
 .projects-container{
