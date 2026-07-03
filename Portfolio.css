@@ -148,13 +148,13 @@ body{
     animation: heroReveal 1s ease forwards;
 }
 
-.hero-tag {
+/*.hero-tag {
     color: #D4AF37;
     font-size: 1rem;
     margin-bottom: 15px;
     letter-spacing: 2px;
     text-transform: uppercase;
-}
+}*/
 
 .hero h1 {
 font-size: 4rem;
