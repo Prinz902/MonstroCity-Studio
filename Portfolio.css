@@ -262,11 +262,12 @@ margin-bottom: 20px;
 
 
 .section-tag {
-    color: #D4AF37;
+    color: #96760e;
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 2px;
     margin-bottom: 15px;
+    
 }
 
 .about h2 {
@@ -333,12 +334,14 @@ margin-bottom: 20px;
     background: #ffffff;
     padding-top: 60px;
     padding-bottom: 60px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 .projects-container{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap:30px;
+    gap:25px;
 }
 
 .project-card{
@@ -400,7 +403,7 @@ margin-bottom: 20px;
 
 /*why hire me setion*/
 .why-choose{
-    padding: 120px 8%;
+    padding: 100px 8%;
     background: #3E2723;
     color: white;
 }
@@ -437,7 +440,7 @@ color:#ddd;
 /*Process Section*/
 
 .process{
-    padding: 120px 8%;
+    padding: 100px 8%;
     background: #0b0b0b;
     color: #ffffff;
 }
@@ -489,7 +492,7 @@ border-radius: 25px;
 
 /*Testimonial section*/
 .testimonials{
-    padding: 120px 8%;
+    padding: 100px 8%;
     background: #111;
     color: white;
 }
@@ -555,7 +558,7 @@ border-radius: 25px;
 
 /*Contact*/
 .contact{
-    padding: 120px 8%;
+    padding: 100px 8%;
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 70px;
